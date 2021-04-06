@@ -1,5 +1,5 @@
 # Comandos utiles
-- git clone https://github.com/juanbor/ejerciciosProg2-2021B.git
+- git clone https://github.com/juanbor/ejerciciosProg2-2021.git
 - git add .
 - git commit -m "Mensaje"
 - git push origin NOMBRE_RAMA
@@ -11,4 +11,5 @@
 
 ## De forma iterativa
 1. Cortan la carpeta de Eclipse y la pegan en la carpeta de GitHub
-2. Implementan el codigo 5 - Suben los cambios
+2. Implementan el codigo 
+3. Suben los cambios
